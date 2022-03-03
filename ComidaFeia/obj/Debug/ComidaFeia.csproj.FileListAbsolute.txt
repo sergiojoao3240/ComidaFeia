@@ -1,0 +1,13 @@
+C:\Users\Sérgio\Desktop\ComidaFeia\ComidaFeia\bin\Debug\ComidaFeia.exe.config
+C:\Users\Sérgio\Desktop\ComidaFeia\ComidaFeia\bin\Debug\ComidaFeia.exe
+C:\Users\Sérgio\Desktop\ComidaFeia\ComidaFeia\bin\Debug\ComidaFeia.pdb
+C:\Users\Sérgio\Desktop\ComidaFeia\ComidaFeia\obj\Debug\ComidaFeia.csprojAssemblyReference.cache
+C:\Users\Sérgio\Desktop\ComidaFeia\ComidaFeia\obj\Debug\ComidaFeia.Form1.resources
+C:\Users\Sérgio\Desktop\ComidaFeia\ComidaFeia\obj\Debug\ComidaFeia.Properties.Resources.resources
+C:\Users\Sérgio\Desktop\ComidaFeia\ComidaFeia\obj\Debug\ComidaFeia.csproj.GenerateResource.cache
+C:\Users\Sérgio\Desktop\ComidaFeia\ComidaFeia\obj\Debug\ComidaFeia.csproj.CoreCompileInputs.cache
+C:\Users\Sérgio\Desktop\ComidaFeia\ComidaFeia\obj\Debug\ComidaFeia.exe
+C:\Users\Sérgio\Desktop\ComidaFeia\ComidaFeia\obj\Debug\ComidaFeia.pdb
+C:\Users\Sérgio\Desktop\ComidaFeia\ComidaFeia\obj\Debug\ComidaFeia.Registo.resources
+C:\Users\Sérgio\Desktop\ComidaFeia\ComidaFeia\obj\Debug\ComidaFeia.Cliente.resources
+C:\Users\Sérgio\Desktop\ComidaFeia\ComidaFeia\obj\Debug\ComidaFeia.Fornecedor.resources
